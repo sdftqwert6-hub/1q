@@ -1,4 +1,4 @@
-name: Website Check
+name: Website doec
 
 on:
   push:
